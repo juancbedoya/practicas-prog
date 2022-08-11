@@ -1,3 +1,4 @@
 # practicas-prog
  practicas de programacion
-hola
+hola mundo
+practica 1
